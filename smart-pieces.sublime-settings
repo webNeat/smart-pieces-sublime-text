@@ -1,0 +1,7 @@
+{
+	"path": "~/workspace/ss/smart-pieces",
+	"ask_when_new_scope": true,
+	"scopes": {
+		"text.plain": "txt"
+	}
+}

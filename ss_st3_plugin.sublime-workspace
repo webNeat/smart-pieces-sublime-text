@@ -1,0 +1,1182 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sc",
+				"scope_name"
+			],
+			[
+				"scope",
+				"scope_name"
+			],
+			[
+				"in",
+				"input_zip"
+			],
+			[
+				"get",
+				"get_scopes_from"
+			],
+			[
+				"se",
+				"settings"
+			],
+			[
+				"s",
+				"scopes"
+			],
+			[
+				"tm",
+				"tmFiles"
+			],
+			[
+				"pr",
+				"prob"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"keys",
+				"keysNumber"
+			],
+			[
+				"ke",
+				"keys"
+			],
+			[
+				"str_s",
+				"str_split"
+			],
+			[
+				"array_",
+				"array_intersect"
+			],
+			[
+				"sub",
+				"sublime"
+			],
+			[
+				"is",
+				"is_file"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"S",
+				"SNIPPETS_DIR"
+			],
+			[
+				"ele",
+				"elementsCount"
+			],
+			[
+				"lo",
+				"log_var	log_var"
+			],
+			[
+				"field",
+				"fieldFormat"
+			],
+			[
+				"fiel",
+				"fieldFormat"
+			],
+			[
+				"elee",
+				"elementsCount"
+			],
+			[
+				"re",
+				"recursive"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"str",
+				"strtolower"
+			],
+			[
+				"class",
+				"class	class"
+			],
+			[
+				"parse",
+				"parseElement"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"clas",
+				"class	class"
+			],
+			[
+				"DIR",
+				"__DIR__"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"gener",
+				"generateFromCommand  (function)"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"sele",
+				"selectedIds"
+			],
+			[
+				"selec",
+				"selectedFields"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"strt",
+				"strtotime"
+			],
+			[
+				"valida",
+				"validateData"
+			],
+			[
+				"q",
+				"quotes"
+			],
+			[
+				"quot",
+				"quotes"
+			],
+			[
+				"is_",
+				"is_null"
+			],
+			[
+				"key",
+				"array_key_exists"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"new",
+				"newSelectedIds"
+			],
+			[
+				"data",
+				"dataCollection"
+			],
+			[
+				"stat",
+				"staticData"
+			],
+			[
+				"tables",
+				"tablesInfo"
+			],
+			[
+				"Arra",
+				"ArrayObject  (class)"
+			],
+			[
+				"tabl",
+				"tableName"
+			],
+			[
+				"tab",
+				"$tables  (variable)"
+			],
+			[
+				"int",
+				"intervals"
+			],
+			[
+				"where",
+				"whereField  (function)"
+			],
+			[
+				"f",
+				"fields"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"array_ke",
+				"array_keys"
+			],
+			[
+				"see",
+				"selectedFields  (variable)"
+			],
+			[
+				"type",
+				"type_info"
+			],
+			[
+				"ty",
+				"typeHash"
+			],
+			[
+				"show",
+				"showAds"
+			],
+			[
+				"set",
+				"set1Countries"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"curre",
+				"currentUser  (variable)"
+			],
+			[
+				"user",
+				"currentUser  (variable)"
+			],
+			[
+				"yt_co",
+				"yt_comment_users"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"ht",
+				"htmlentities"
+			],
+			[
+				"filter",
+				"filter_var"
+			],
+			[
+				"cou",
+				"countries"
+			],
+			[
+				"max",
+				"max_applies"
+			],
+			[
+				"chec",
+				"check_limit"
+			],
+			[
+				"asd",
+				"adsQuery"
+			],
+			[
+				"as",
+				"adsQuery  (variable)"
+			],
+			[
+				"x",
+				"x_"
+			],
+			[
+				"tabe",
+				"tableName"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"save",
+				"saveTable"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"che",
+				"checkField"
+			],
+			[
+				"ta",
+				"tableName"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"cmd",
+				"cmdName"
+			],
+			[
+				"bin",
+				"binaries"
+			],
+			[
+				"co",
+				"colspan"
+			],
+			[
+				"clea",
+				"clean_comment"
+			],
+			[
+				"use",
+				"userFound"
+			],
+			[
+				"yt",
+				"ytComment"
+			],
+			[
+				"Comma",
+				"Commands"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"comme",
+				"comment"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"sh",
+				"shouldWait"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "SmartPieces.py",
+			"settings":
+			{
+				"buffer_size": 2781,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "smart-pieces.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 71,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "plain\nif( in_array($, $) ){\n	\n}",
+			"settings":
+			{
+				"buffer_size": 31,
+				"line_ending": "Unix",
+				"name": "plain"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"syntajson",
+				"Set Syntax: JSON"
+			],
+			[
+				"nf",
+				"ANF: New File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"impo",
+				"PHPCompanion:Import Namespace"
+			],
+			[
+				"clf",
+				"Clang Format: Format Selection"
+			],
+			[
+				"pdis",
+				"Package Control: Disable Package"
+			],
+			[
+				"cfss",
+				"Clang Format: Select Style"
+			],
+			[
+				"cff",
+				"Clang Format: Format Selection"
+			],
+			[
+				"",
+				"Clang Format: Select Style"
+			],
+			[
+				"c",
+				"Clang Format: Format Selection"
+			],
+			[
+				"fs",
+				"Clang Format: Select Style"
+			],
+			[
+				"F",
+				"Clang Format: Format Selection"
+			],
+			[
+				"for",
+				"Clang Format: Format Selection"
+			],
+			[
+				"build",
+				"Build: Run"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"pret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"istall",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 475.0
+	},
+	"console":
+	{
+		"height": 206.0,
+		"history":
+		[
+			"print(sys.version)",
+			"import sys",
+			"print(sys.version)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/webneat/.config/sublime-text-3/Packages/SmartPieces"
+	],
+	"file_history":
+	[
+		"/home/webneat/.config/sublime-text-3/Packages/User/smart-pieces.sublime-settings",
+		"/home/webneat/workspace/lab/test.py",
+		"/home/webneat/.config/sublime-text-3/Packages/User/smart-pieces",
+		"/home/webneat/workspace/mount_cern",
+		"/tmp/.fr-A7LotE/SideBar.py",
+		"/home/webneat/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/webneat/.config/sublime-text-3/Backup/20141028155516/SublimeLinter/fixed-syntaxes/HTML/HTML.tmLanguage",
+		"/home/webneat/.config/sublime-text-3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/home/webneat/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/webneat/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/webneat/.config/sublime-text-3/Packages/SmartPieces/smart-pieces.sublime-settings",
+		"/home/webneat/workspace/ss/snippets/tt/format.json",
+		"/home/webneat/.config/sublime-text-3/Packages/Minify/Minify.sublime-settings",
+		"/home/webneat/workspace/ss/README.md",
+		"/home/webneat/workspace/ss/src/RenderCommand.php",
+		"/home/webneat/workspace/ss/snippets/contains/default.twig",
+		"/home/webneat/workspace/ss/snippets/contains/cpp.twig",
+		"/home/webneat/workspace/ss/smart-pieces",
+		"/home/webneat/workspace/ss/snippets/f/default.twig",
+		"/home/webneat/workspace/ss/snippets/f/format.json",
+		"/home/webneat/workspace/ss/.gitignore",
+		"/home/webneat/workspace/ss/composer.json",
+		"/home/webneat/workspace/ss/snippets/contains/format.json",
+		"/home/webneat/workspace/ss/snippets/contains/js.twig",
+		"/home/webneat/workspace/ss/snippets/contains/php.twig",
+		"/home/webneat/commands/src/php/archive/generator/templates/cpp/{{name#cctu}}.hpp",
+		"/home/webneat/workspace/ss/snippets/cont/default.twig",
+		"/home/webneat/workspace/ss/src/ArgumentsParser.php",
+		"/home/webneat/workspace/ss/snippets/struct/format.json",
+		"/home/webneat/workspace/ss/snippets/struct/cpp.twig",
+		"/home/webneat/workspace/ss/snippets/struct/default.twig",
+		"/home/webneat/workspace/ss/snippets/cpp/struct/template.twig",
+		"/home/webneat/workspace/ss/vendor/twig/twig/lib/Twig/Loader/Filesystem.php",
+		"/home/webneat/workspace/ss/snippets/tt.twig",
+		"/home/webneat/.config/sublime-text-3/Packages/User/wn/php/->.sublime-snippet",
+		"/home/webneat/workspace/ss/src/Object.php",
+		"/home/webneat/.config/sublime-text-3/Packages/User/wn/php/log_array.sublime-snippet",
+		"/home/webneat/.config/sublime-text-3/Packages/User/wn/php/log.sublime-snippet",
+		"/home/webneat/.config/sublime-text-3/Packages/User/wn/php/class.sublime-snippet",
+		"/home/webneat/.config/sublime-text-3/Packages/User/wn/php/namespace.sublime-snippet",
+		"/home/webneat/workspace/ss/snippets/struct/template.twig",
+		"/home/webneat/workspace/ss/snippets/cpp/struct.twig",
+		"/home/webneat/workspace/ss/snippets/struct/data.json",
+		"/home/webneat/workspace/ss/run",
+		"/home/webneat/workspace/ss/src/Snippet.php",
+		"/tmp/json.txt",
+		"/home/webneat/workspace/challenges/codejam/cj2015/round1B/solutions/codejam31.js",
+		"/home/webneat/workspace/challenges/codejam/cj2015/round1B/solutions/main.py",
+		"/home/webneat/Bureau/json.txt",
+		"/home/webneat/Bureau/nationalities.txt",
+		"/home/webneat/workspace/ss/src/Runner.php",
+		"/home/webneat/workspace/ss/snippets/cpp/struct.snpt",
+		"/home/webneat/workspace/ss/about/syntax.txt",
+		"/home/webneat/workspace/ss/about/structure.txt",
+		"/home/webneat/workspace/ss/about/grammar.txt",
+		"/home/webneat/.bashrc",
+		"/home/webneat/commands/scripts/mkfiles",
+		"/home/webneat/commands/src/php/vendors/wn/data/Data.php",
+		"/home/webneat/commands/src/php/archive/generator/templates/cpp/{{name#cctu}}.cpp",
+		"/home/webneat/workspace/cpp/lab/template_2.cpp",
+		"/home/webneat/commands/src/php/archive/generator/classes/Generator.php",
+		"/home/webneat/commands/src/php/vendors/wn/data/Interfaces.php",
+		"/home/webneat/commands/src/php/vendors/wn/data/spec/test.php",
+		"/home/webneat/commands/src/php/about.txt",
+		"/home/webneat/commands/scripts/voca",
+		"/home/webneat/commands/src/php/archive/generator/classes/CommandParser.php",
+		"/home/webneat/commands/src/php/vendors/wn/cmd/Command.php",
+		"/home/webneat/commands/src/php/archive/generator/archive/classes/CodeGenerator.php",
+		"/usr/share/applications/gnome-terminal.desktop",
+		"/home/webneat/.bash_history",
+		"/var/www/html/lab/dialog.php",
+		"/home/webneat/Téléchargements/stl_vector.h",
+		"/home/webneat/freelance/for_free/fz/Inesmap.class.php",
+		"/home/webneat/isima/zz3/cours/grilles/notes.txt",
+		"/home/webneat/commands/src/php/data/quotes.data.json",
+		"/home/webneat/commands/src/php/vendors/wn/data/Item.php",
+		"/home/webneat/commands/scripts/quotes",
+		"/var/st/jfof.mp4",
+		"/home/webneat/commands/src/php/archive/files/quotes.txt",
+		"/home/webneat/commands/scripts/oo",
+		"/home/webneat/commands/commands.sublime-project",
+		"/home/webneat/workspace/php/lab/references.php",
+		"/home/webneat/commands/src/php/vendors/Twig/Test/IntegrationTestCase.php",
+		"/home/webneat/commands/src/php/vendors/Twig/Node/If.php",
+		"/home/webneat/isima/zz3/tps/cpp/tp1/cpp-tp1.sublime-project",
+		"/home/webneat/commands/src/php/vendors/Twig/Loader/Filesystem.php",
+		"/home/webneat/commands/src/php/vendors/Twig/Node/SetTemp.php",
+		"/home/webneat/commands/src/php/vendors/Twig/Template.php",
+		"/home/webneat/.config/sublime-text-3/Packages/User/Javatar.sublime-settings",
+		"/media/webneat/wnStorage/taskManager/about.txt",
+		"/media/webneat/wnStorage/taskManager/cpp/main.cpp",
+		"/home/webneat/commands/src/php/archive/decision.php",
+		"/home/webneat/Documents/ToDo.txt",
+		"/home/webneat/.config/sublime-text-3/Packages/Javatar/README.md",
+		"/home/webneat/workspace/cpp/lab/rand.cpp",
+		"/home/webneat/isima/zz2/tps/simulation/SMA/generators.hpp",
+		"/home/webneat/isima/zz2/tps/simulation/SMA/generators.cpp",
+		"/home/webneat/Téléchargements/music/down.sh",
+		"/home/webneat/workspace/cpp/lab/wn_lib/about.txt",
+		"/home/webneat/workspace/cpp/lab/wn_lib/about.yaml",
+		"/home/webneat/.config/sublime-text-3/Packages/User/clang_format_custom.sublime-settings",
+		"/home/webneat/.config/sublime-text-3/Packages/Clang Format/clang_format_custom.sublime-settings",
+		"/media/webneat/wnHD/webneat/archive/challenges/codingame/GameOfDrones/Player.cpp",
+		"/home/webneat/workspace/cpp/lab/wn_lib/main.cpp",
+		"/home/webneat/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/webneat/workspace/cpp/lab/wn_lib/src/array.h",
+		"/home/webneat/workspace/cpp/lab/wn_lib/src/main.cpp",
+		"/home/webneat/workspace/cpp/lab/wn_lib/Makefile",
+		"/home/webneat/Freelance/cnh/yt_comments_addon/files/admin2/yt_comments_settings.php",
+		"/home/webneat/Freelance/cnh/yt_comments_addon/about/details.txt",
+		"/home/webneat/Freelance/cnh/yt_comments_addon/files/wn/yt_comments/js/members_yt_comments.js",
+		"/home/webneat/Freelance/cnh/yt_comments_addon/chat/chat.txt",
+		"/home/webneat/Freelance/cnh/yt_comments_addon/files/addons/settings.php",
+		"/home/webneat/Freelance/cnh/yt_comments_addon/files/admin2/yt_comments_api.php",
+		"/home/webneat/Freelance/cnh/yt_comments_addon/files/yt_comments_cron.php",
+		"/home/webneat/Freelance/cnh/yt_comments_addon/db/setts.sql",
+		"/home/webneat/Freelance/cnh/yt_comments_addon/files/crongrid.php",
+		"/home/webneat/Freelance/cnh/yt_comments_addon/files/cron.php",
+		"/home/webneat/Freelance/cnh/yt_comments_addon/about/tasks.txt",
+		"/home/webneat/Freelance/cnh/yt_comments_addon/files/admin.php",
+		"/home/webneat/Freelance/cnh/yt_comments_addon/files/includes/functions.php",
+		"/home/webneat/Freelance/cnh/yt_comments_addon/files/addons/Manager.php",
+		"/home/webneat/Freelance/cnh/yt_comments_addon/files/admin2/addon.php",
+		"/home/webneat/Freelance/cnh/yt_comments_addon/files/addons/class.country.php",
+		"/home/webneat/Freelance/cnh/yt_comments_addon/about/algos.txt",
+		"/home/webneat/Freelance/cnh/yt_comments_addon/files/cronperhour.php",
+		"/home/webneat/Freelance/cnh/yt_comments_addon/files/admin2/yt_comments_comment.php",
+		"/home/webneat/Freelance/cnh/yt_comments_addon/files/yt_comment_redirect.php"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\":",
+			"name",
+			"name.",
+			"show_filename_input",
+			"parent",
+			"explode",
+			"smart_snippet",
+			"class='video",
+			"data[0]",
+			"json_decode",
+			"data[0]",
+			"Usage Examples",
+			"SmartSnippet",
+			"c.",
+			"'",
+			"=>",
+			"find",
+			"$this->",
+			"flag",
+			"element",
+			"is_array",
+			"&amp;",
+			"href=\"",
+			"href=\"[^\"]+",
+			"<option[^>]+",
+			"class='video'",
+			"[a-z]+",
+			"language",
+			"method.arguments[0]",
+			"method.arguments",
+			";",
+			"echo",
+			"clean",
+			"load",
+			"dialog",
+			"modif",
+			"delete",
+			"id",
+			"part",
+			"su",
+			"afficher_div",
+			"prin",
+			"echo",
+			"prin",
+			"var_",
+			"print_r",
+			"youtube-dl",
+			".mp4",
+			"echo",
+			"result;",
+			",",
+			"validateData",
+			"this->attrs",
+			"$this->attrs",
+			"get",
+			"Info",
+			",",
+			"$dataCollection",
+			"lastId",
+			"static::\\$tables[^A-z]",
+			"static::\\$data[^A-z]",
+			"getData",
+			"loadData",
+			"loadTable",
+			"$data['name']",
+			"$table",
+			"youtube-dl",
+			"generator",
+			"youtube-dl http",
+			"amp;",
+			"href=\"[^\"]*",
+			"<a href=\"",
+			"int",
+			"yt_applies",
+			"1",
+			"$checkLimit",
+			"prin",
+			".",
+			"=>",
+			"\n	array(",
+			"tier",
+			"number",
+			"<se",
+			"'name' =>",
+			"VALUES",
+			"=",
+			"pp->",
+			"inline",
+			"asCartesien",
+			"x",
+			"Cartesien",
+			"_t",
+			"eta",
+			"POLAIRE",
+			"void",
+			"CARTESIEN",
+			"POINT",
+			"schema",
+			"$result",
+			"name",
+			"default",
+			"name",
+			"{}",
+			"attr",
+			"arg",
+			"comments",
+			"id",
+			"$ii['content']",
+			"#wait_span",
+			"step",
+			"ol>",
+			"ol",
+			"div",
+			"ytCmnt",
+			"user",
+			"result_span",
+			"status",
+			"active"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "SmartPieces.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2781,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2498,
+								2498
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1093.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "smart-pieces.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 71,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31,
+								31
+							]
+						],
+						"settings":
+						{
+							"auto_name": "plain",
+							"default_dir": "/home/webneat/.config/sublime-text-3/Packages/SmartPieces",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 286.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 142.0
+	},
+	"pinned_build_system": "",
+	"project": "ss_st3_plugin.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"form",
+				"snippets/contains/format.json"
+			],
+			[
+				"co",
+				"composer.json"
+			],
+			[
+				"tem",
+				"snippets/cpp/struct/template.twig"
+			],
+			[
+				"arg",
+				"src/ArgumentsParser.php"
+			],
+			[
+				"files",
+				"vendor/twig/twig/lib/Twig/Loader/Filesystem.php"
+			],
+			[
+				"twig/loader/filesystem.php",
+				"vendor/twig/twig/lib/Twig/Loader/Filesystem.php"
+			],
+			[
+				"obje",
+				"src/Object.php"
+			],
+			[
+				"sma",
+				"src/SmartSnippet.php"
+			],
+			[
+				"snip",
+				"src/Snippet.php"
+			],
+			[
+				"{{",
+				"src/php/archive/generator/templates/cpp/{{name#cctu}}.cpp"
+			],
+			[
+				"quod",
+				"src/php/data/quotes.data.json"
+			],
+			[
+				"quotes",
+				"src/php/data/quotes.data.json"
+			],
+			[
+				"item",
+				"src/php/vendors/wn/data/Item.php"
+			],
+			[
+				"comma",
+				"src/php/vendors/wn/cmd/Command.php"
+			],
+			[
+				"iterfa",
+				"src/php/vendors/wn/data/Interfaces.php"
+			],
+			[
+				"data/data",
+				"src/php/vendors/wn/data/Data.php"
+			],
+			[
+				"deta",
+				"yt_comments_addon/about/details.txt"
+			],
+			[
+				".js",
+				"yt_comments_addon/files/wn/yt_comments/js/members_yt_comments.js"
+			],
+			[
+				"sett",
+				"yt_comments_addon/files/admin2/yt_comments_settings.php"
+			],
+			[
+				"de",
+				"yt_comments_addon/about/details.txt"
+			],
+			[
+				"adm",
+				"yt_comments_addon/files/admin.php"
+			],
+			[
+				"cron",
+				"yt_comments_addon/files/cronperhour.php"
+			],
+			[
+				"task",
+				"about/tasks.txt"
+			],
+			[
+				"comm",
+				"src/php/vendors/wn/cmd/Command.php"
+			],
+			[
+				"fs",
+				"src/php/vendors/wn/tools/FS.php"
+			],
+			[
+				"tas",
+				"about/tasks.txt"
+			],
+			[
+				"ytccr",
+				"files/yt_comments_cron.php"
+			],
+			[
+				"yt_commet_comments",
+				"db/yt_commet_comments.sql"
+			],
+			[
+				"yt_comment_log",
+				"db/yt_comment_log.sql"
+			],
+			[
+				"yt_ccr",
+				"files/yt_comments_cron.php"
+			],
+			[
+				"comcl",
+				"yt_comments_addon/db/yt_commet_clicks.sql"
+			],
+			[
+				"comme",
+				"yt_comments_addon/db/yt_commet_comments.sql"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/workspace/ss/ss.sublime-project"
+			],
+			[
+				"ss",
+				"~/workspace/ss/ss.sublime-project"
+			],
+			[
+				"api",
+				"~/workspace/cern_local/api/LHCbPR-api.sublime-project"
+			],
+			[
+				"ap",
+				"~/workspace/cern_local/api/LHCbPR-api.sublime-project"
+			],
+			[
+				"tas",
+				"~/tasks/task.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 295.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
